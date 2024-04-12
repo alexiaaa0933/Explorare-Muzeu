@@ -15,7 +15,7 @@ D:/Facultate/Anul III/Semestrul II/DJC/ExplorareMuzeuProiect/ExplorareMuzeu
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-59672
+61058
 Successfully changed project path to: D:/Facultate/Anul III/Semestrul II/DJC/ExplorareMuzeuProiect/ExplorareMuzeu
 D:/Facultate/Anul III/Semestrul II/DJC/ExplorareMuzeuProiect/ExplorareMuzeu
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,12 +49,12 @@ D:/Facultate/Anul III/Semestrul II/DJC/ExplorareMuzeuProiect/ExplorareMuzeu
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [14692] Host "[IP] 172.20.10.4 [Port] 0 [Flags] 2 [Guid] 618689005 [EditorId] 618689005 [Version] 1048832 [Id] WindowsEditor(7,Alexia-s-laptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [14512] Host "[IP] 172.20.10.4 [Port] 0 [Flags] 2 [Guid] 335028213 [EditorId] 335028213 [Version] 1048832 [Id] WindowsEditor(7,Alexia-s-laptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [14692] Host "[IP] 172.20.10.4 [Port] 0 [Flags] 2 [Guid] 618689005 [EditorId] 618689005 [Version] 1048832 [Id] WindowsEditor(7,Alexia-s-laptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [14512] Host "[IP] 172.20.10.4 [Port] 0 [Flags] 2 [Guid] 335028213 [EditorId] 335028213 [Version] 1048832 [Id] WindowsEditor(7,Alexia-s-laptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
-Refreshing native plugins compatible for Editor in 549.97 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 6.22 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.20f1 (61c2feb0970d)
 [Subsystems] Discovering subsystems at path D:/Aplicatii/Unity/2022.3.20f1/Editor/Data/Resources/UnitySubsystems
@@ -70,44 +70,44 @@ Initialize mono
 Mono path[0] = 'D:/Aplicatii/Unity/2022.3.20f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Aplicatii/Unity/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Aplicatii/Unity/2022.3.20f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56396
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56804
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Aplicatii/Unity/2022.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.033178 seconds.
-- Loaded All Assemblies, in  3.367 seconds
+Registered in 0.028870 seconds.
+- Loaded All Assemblies, in  2.012 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.356 seconds
-Domain Reload Profiling: 3723ms
-	BeginReloadAssembly (3011ms)
+- Finished resetting the current domain, in  0.478 seconds
+Domain Reload Profiling: 2490ms
+	BeginReloadAssembly (1172ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (44ms)
-	RebuildNativeTypeToScriptingClass (12ms)
-	initialDomainReloadingComplete (90ms)
-	LoadAllAssembliesAndSetupDomain (210ms)
-		LoadAssemblies (3010ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (155ms)
+	LoadAllAssembliesAndSetupDomain (633ms)
+		LoadAssemblies (1171ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (208ms)
-			TypeCache.Refresh (206ms)
-				TypeCache.ScanAssembly (189ms)
-			ScanForSourceGeneratedMonoScriptInfo (1ms)
+		AnalyzeDomain (631ms)
+			TypeCache.Refresh (629ms)
+				TypeCache.ScanAssembly (614ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (357ms)
+	FinalizeReload (479ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (282ms)
+		SetupLoadedEditorAssemblies (405ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (10ms)
-			SetLoadedEditorAssemblies (10ms)
+			SetLoadedEditorAssemblies (8ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (180ms)
-			ProcessInitializeOnLoadMethodAttributes (79ms)
+			ProcessInitializeOnLoadAttributes (155ms)
+			ProcessInitializeOnLoadMethodAttributes (230ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -115,55 +115,55 @@ Domain Reload Profiling: 3723ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.678 seconds
-Refreshing native plugins compatible for Editor in 25.72 ms, found 3 plugins.
+- Loaded All Assemblies, in  5.575 seconds
+Refreshing native plugins compatible for Editor in 2.52 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.970 seconds
-Domain Reload Profiling: 3652ms
-	BeginReloadAssembly (178ms)
+- Finished resetting the current domain, in  1.050 seconds
+Domain Reload Profiling: 6578ms
+	BeginReloadAssembly (230ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (32ms)
-	RebuildCommonClasses (42ms)
+		CreateAndSetChildDomain (40ms)
+	RebuildCommonClasses (45ms)
 	RebuildNativeTypeToScriptingClass (12ms)
 	initialDomainReloadingComplete (44ms)
-	LoadAllAssembliesAndSetupDomain (2406ms)
-		LoadAssemblies (2090ms)
+	LoadAllAssembliesAndSetupDomain (5197ms)
+		LoadAssemblies (5136ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (412ms)
-			TypeCache.Refresh (381ms)
-				TypeCache.ScanAssembly (358ms)
-			ScanForSourceGeneratedMonoScriptInfo (23ms)
-			ResolveRequiredComponents (5ms)
-	FinalizeReload (971ms)
+		AnalyzeDomain (198ms)
+			TypeCache.Refresh (174ms)
+				TypeCache.ScanAssembly (156ms)
+			ScanForSourceGeneratedMonoScriptInfo (19ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (1051ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (776ms)
+		SetupLoadedEditorAssemblies (856ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (6ms)
-			SetLoadedEditorAssemblies (5ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (6ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (53ms)
-			ProcessInitializeOnLoadAttributes (683ms)
-			ProcessInitializeOnLoadMethodAttributes (26ms)
-			AfterProcessingInitializeOnLoad (3ms)
+			BeforeProcessingInitializeOnLoad (67ms)
+			ProcessInitializeOnLoadAttributes (752ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (2ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (11ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.28 seconds
-Refreshing native plugins compatible for Editor in 18.55 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.25 seconds
+Refreshing native plugins compatible for Editor in 1.98 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3092 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 32 unused Assets / (57.4 KB). Loaded Objects now: 3553.
+Unloading 32 unused Assets / (56.9 KB). Loaded Objects now: 3553.
 Memory consumption went from 122.6 MB to 122.6 MB.
-Total: 5.009500 ms (FindLiveObjects: 0.485000 ms CreateObjectMapping: 0.162000 ms MarkObjects: 3.315800 ms  DeleteObjects: 1.044200 ms)
+Total: 4.677000 ms (FindLiveObjects: 0.406400 ms CreateObjectMapping: 0.106200 ms MarkObjects: 4.023700 ms  DeleteObjects: 0.138900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -181,107 +181,41 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 32432.435180 seconds.
-  path: Assets/Prefabs/Stachions/RGB_459ffa7c5baa4f29b2d3bcd10c990eb8_Red_Fabric.jpeg
-  artifactKey: Guid(5b569a79f68f93944a4a4c8095bd37a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Stachions/RGB_459ffa7c5baa4f29b2d3bcd10c990eb8_Red_Fabric.jpeg using Guid(5b569a79f68f93944a4a4c8095bd37a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8d16051d11a532c47dc4f33fcf10cb') in 0.401476 seconds
+  Time since last request: 36350.695833 seconds.
+  path: Assets/Prefabs/bust-of-queen-nefertiti/source/model
+  artifactKey: Guid(5a1056d5117a45145b7634adcbcf3d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bust-of-queen-nefertiti/source/model using Guid(5a1056d5117a45145b7634adcbcf3d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '090019e986237dd1e21d7064fdf39072') in 0.004222 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/Prefabs/Stachions/model.jpg
-  artifactKey: Guid(e3179427a767e544e897f0908ab0a891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Stachions/model.jpg using Guid(e3179427a767e544e897f0908ab0a891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d3aef747229250f2a0d034c3a9bf1e1') in 0.151662 seconds
+  Time since last request: 0.000021 seconds.
+  path: Assets/Prefabs/bust-of-queen-nefertiti/source/model/model
+  artifactKey: Guid(e338ce41e796d1644a267f74afcdeae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bust-of-queen-nefertiti/source/model/model using Guid(e338ce41e796d1644a267f74afcdeae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '562f1fc15e2916d3730d62a50a921d93') in 0.000470 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 183.837495 seconds.
-  path: Assets/Materials/light-gold-unity/light-gold-unity/lightgold_metallic.psd
-  artifactKey: Guid(b79d33257f7824c418b1976f34b86391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/light-gold-unity/light-gold-unity/lightgold_metallic.psd using Guid(b79d33257f7824c418b1976f34b86391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e705fb6cf4f27b00bdfb224fc282334') in 0.207325 seconds
+  Time since last request: 0.000146 seconds.
+  path: Assets/Prefabs/bust-of-queen-nefertiti/source
+  artifactKey: Guid(0ae1e23f10e4a704e8b1e1ead2f56b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bust-of-queen-nefertiti/source using Guid(0ae1e23f10e4a704e8b1e1ead2f56b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ad92cb362468ca631f9a1ad997f66bb') in 0.000868 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Materials/light-gold-unity/light-gold-unity/lightgold_preview.jpg
-  artifactKey: Guid(a0625db1d4652d4438606d9df8eb77f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/light-gold-unity/light-gold-unity/lightgold_preview.jpg using Guid(a0625db1d4652d4438606d9df8eb77f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cb27500312bd9a4d74ff17baebce5b1') in 0.086156 seconds
+  Time since last request: 288.244015 seconds.
+  path: Assets/Prefabs/tomb-of-mereruka-saqqara-egypt/source/Mereruka_Entrance/Mereruka_Entrance.obj
+  artifactKey: Guid(ce6caf4c43515be40a4f072bc8d15807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/tomb-of-mereruka-saqqara-egypt/source/Mereruka_Entrance/Mereruka_Entrance.obj using Guid(ce6caf4c43515be40a4f072bc8d15807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88dc91c485a07f5f4cf1c006f249a373') in 0.685203 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Prepare
-Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  3.458 seconds
-Refreshing native plugins compatible for Editor in 2.45 ms, found 3 plugins.
-Native extension for WindowsStandalone target not found
-[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in 11.731 seconds
-Domain Reload Profiling: 15189ms
-	BeginReloadAssembly (764ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (5ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (18ms)
-		CreateAndSetChildDomain (378ms)
-	RebuildCommonClasses (34ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (27ms)
-	LoadAllAssembliesAndSetupDomain (2621ms)
-		LoadAssemblies (2888ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (16ms)
-			TypeCache.Refresh (9ms)
-				TypeCache.ScanAssembly (0ms)
-			ScanForSourceGeneratedMonoScriptInfo (0ms)
-			ResolveRequiredComponents (5ms)
-	FinalizeReload (11732ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (575ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (6ms)
-			SetLoadedEditorAssemblies (7ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (109ms)
-			ProcessInitializeOnLoadAttributes (418ms)
-			ProcessInitializeOnLoadMethodAttributes (33ms)
-			AfterProcessingInitializeOnLoad (3ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (10ms)
-Refreshing native plugins compatible for Editor in 2.78 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3084 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 23 unused Assets / (31.1 KB). Loaded Objects now: 3560.
-Memory consumption went from 123.4 MB to 123.4 MB.
-Total: 6.207400 ms (FindLiveObjects: 0.629400 ms CreateObjectMapping: 0.154300 ms MarkObjects: 5.293500 ms  DeleteObjects: 0.128000 ms)
-
-Prepare: number of updated asset objects reloaded= 0
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Number of asset objects unloaded after import = 11
 ========================================================================
 Received Import Request.
-  Time since last request: 1809.758646 seconds.
-  path: Assets/Prefabs/the-mona-lisa/textures/mona_diffuse.png
-  artifactKey: Guid(a8498fd116201b749afede408dbf40ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/the-mona-lisa/textures/mona_diffuse.png using Guid(a8498fd116201b749afede408dbf40ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50f2b078b77e46908f35450fb3df406e') in 3.924695 seconds
+  Time since last request: 689.685072 seconds.
+  path: Assets/Prefabs/moai-statue-recap-obj/source/MoaiStatue_ReCap_OBJ/MoaiStatue_ReCap_OBJ/Moai_statue_Easter_Island/Moai_statue_Easter_Island01.jpg
+  artifactKey: Guid(327dc949567243b42a636a4e74f73157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/moai-statue-recap-obj/source/MoaiStatue_ReCap_OBJ/MoaiStatue_ReCap_OBJ/Moai_statue_Easter_Island/Moai_statue_Easter_Island01.jpg using Guid(327dc949567243b42a636a4e74f73157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1df7d422505035a6548db8ca6769148') in 0.078152 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
