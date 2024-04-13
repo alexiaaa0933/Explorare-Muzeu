@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|c:\\facultate\\an3sem2\\djc\\explorare-muzeu\\exploraremuzeu\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|c:\\facultate\\an3sem2\\djc\\explorare-muzeu\\exploraremuzeu\\assets\\scripts\\apple_portret_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apple_portret_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|c:\\facultate\\an3sem2\\djc\\explorare-muzeu\\exploraremuzeu\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|c:\\facultate\\an3sem2\\djc\\explorare-muzeu\\exploraremuzeu\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,12 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "apple_portret_text.cs",
+              "DocumentMoniker": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\apple_portret_text.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\apple_portret_text.cs",
+              "ToolTip": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\apple_portret_text.cs",
+              "RelativeToolTip": "Assets\\Scripts\\apple_portret_text.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:22:28.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SoundManager.cs",
               "DocumentMoniker": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\SoundManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
               "ToolTip": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\SoundManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAoAAAAjAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T06:11:08.822Z",
               "EditorCaption": ""
@@ -49,7 +66,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwDgAAAAzAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T05:36:50.681Z",
               "EditorCaption": ""
@@ -62,9 +79,10 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCam.cs",
               "ToolTip": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\PlayerCam.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerCam.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCYAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T05:36:33.648Z"
+              "WhenOpened": "2024-04-13T05:36:33.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,7 +94,8 @@
               "RelativeToolTip": "Assets\\Scripts\\MoveCamera.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T05:35:54.876Z"
+              "WhenOpened": "2024-04-13T05:35:54.876Z",
+              "EditorCaption": ""
             }
           ]
         }
