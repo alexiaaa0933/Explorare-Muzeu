@@ -15,7 +15,7 @@ D:/Facultate/Anul III/Semestrul II/DJC/ExplorareMuzeuProiect/ExplorareMuzeu
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62178
+63677
 Successfully changed project path to: D:/Facultate/Anul III/Semestrul II/DJC/ExplorareMuzeuProiect/ExplorareMuzeu
 D:/Facultate/Anul III/Semestrul II/DJC/ExplorareMuzeuProiect/ExplorareMuzeu
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,12 +49,12 @@ D:/Facultate/Anul III/Semestrul II/DJC/ExplorareMuzeuProiect/ExplorareMuzeu
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [6496] Host "[IP] 172.20.10.4 [Port] 0 [Flags] 2 [Guid] 1664677401 [EditorId] 1664677401 [Version] 1048832 [Id] WindowsEditor(7,Alexia-s-laptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [20380] Host "[IP] 172.20.10.4 [Port] 0 [Flags] 2 [Guid] 914215501 [EditorId] 914215501 [Version] 1048832 [Id] WindowsEditor(7,Alexia-s-laptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [6496] Host "[IP] 172.20.10.4 [Port] 0 [Flags] 2 [Guid] 1664677401 [EditorId] 1664677401 [Version] 1048832 [Id] WindowsEditor(7,Alexia-s-laptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [20380] Host "[IP] 172.20.10.4 [Port] 0 [Flags] 2 [Guid] 914215501 [EditorId] 914215501 [Version] 1048832 [Id] WindowsEditor(7,Alexia-s-laptop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
-Refreshing native plugins compatible for Editor in 256.60 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 14.04 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.20f1 (61c2feb0970d)
 [Subsystems] Discovering subsystems at path D:/Aplicatii/Unity/2022.3.20f1/Editor/Data/Resources/UnitySubsystems
@@ -70,100 +70,100 @@ Initialize mono
 Mono path[0] = 'D:/Aplicatii/Unity/2022.3.20f1/Editor/Data/Managed'
 Mono path[1] = 'D:/Aplicatii/Unity/2022.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/Aplicatii/Unity/2022.3.20f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56260
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56560
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/Aplicatii/Unity/2022.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.034314 seconds.
-- Loaded All Assemblies, in  3.943 seconds
+Registered in 0.046977 seconds.
+- Loaded All Assemblies, in  2.608 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.844 seconds
-Domain Reload Profiling: 5854ms
-	BeginReloadAssembly (2984ms)
+- Finished resetting the current domain, in  0.379 seconds
+Domain Reload Profiling: 2987ms
+	BeginReloadAssembly (2164ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (202ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (196ms)
-	LoadAllAssembliesAndSetupDomain (547ms)
-		LoadAssemblies (2957ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (98ms)
+	LoadAllAssembliesAndSetupDomain (302ms)
+		LoadAssemblies (2163ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (536ms)
-			TypeCache.Refresh (533ms)
-				TypeCache.ScanAssembly (465ms)
-			ScanForSourceGeneratedMonoScriptInfo (1ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (1912ms)
+		AnalyzeDomain (299ms)
+			TypeCache.Refresh (298ms)
+				TypeCache.ScanAssembly (284ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (379ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1753ms)
+		SetupLoadedEditorAssemblies (316ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (51ms)
-			SetLoadedEditorAssemblies (11ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (10ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (20ms)
-			ProcessInitializeOnLoadAttributes (1427ms)
-			ProcessInitializeOnLoadMethodAttributes (187ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (170ms)
+			ProcessInitializeOnLoadMethodAttributes (123ms)
 			AfterProcessingInitializeOnLoad (0ms)
-			EditorAssembliesLoaded (57ms)
+			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (0ms)
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  4.812 seconds
-Refreshing native plugins compatible for Editor in 72.28 ms, found 3 plugins.
+- Loaded All Assemblies, in  4.825 seconds
+Refreshing native plugins compatible for Editor in 18.19 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.925 seconds
-Domain Reload Profiling: 6673ms
-	BeginReloadAssembly (430ms)
+- Finished resetting the current domain, in  0.995 seconds
+Domain Reload Profiling: 5900ms
+	BeginReloadAssembly (1462ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (149ms)
-	RebuildCommonClasses (45ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (74ms)
-	LoadAllAssembliesAndSetupDomain (4185ms)
-		LoadAssemblies (3580ms)
+		CreateAndSetChildDomain (33ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (86ms)
+	LoadAllAssembliesAndSetupDomain (3309ms)
+		LoadAssemblies (4294ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (737ms)
-			TypeCache.Refresh (704ms)
-				TypeCache.ScanAssembly (628ms)
-			ScanForSourceGeneratedMonoScriptInfo (27ms)
-			ResolveRequiredComponents (4ms)
-	FinalizeReload (1926ms)
+		AnalyzeDomain (320ms)
+			TypeCache.Refresh (278ms)
+				TypeCache.ScanAssembly (230ms)
+			ScanForSourceGeneratedMonoScriptInfo (28ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (996ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1695ms)
+		SetupLoadedEditorAssemblies (813ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (5ms)
-			SetLoadedEditorAssemblies (5ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (7ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (56ms)
-			ProcessInitializeOnLoadAttributes (1590ms)
-			ProcessInitializeOnLoadMethodAttributes (36ms)
+			BeforeProcessingInitializeOnLoad (65ms)
+			ProcessInitializeOnLoadAttributes (704ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
 			AfterProcessingInitializeOnLoad (3ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (11ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.56 seconds
-Refreshing native plugins compatible for Editor in 2.53 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.29 seconds
+Refreshing native plugins compatible for Editor in 94.04 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3092 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 32 unused Assets / (56.9 KB). Loaded Objects now: 3553.
-Memory consumption went from 122.7 MB to 122.6 MB.
-Total: 3.626000 ms (FindLiveObjects: 0.394800 ms CreateObjectMapping: 0.090800 ms MarkObjects: 2.908100 ms  DeleteObjects: 0.230900 ms)
+Unloading 32 unused Assets / (57.4 KB). Loaded Objects now: 3553.
+Memory consumption went from 122.7 MB to 122.7 MB.
+Total: 7.638800 ms (FindLiveObjects: 0.689500 ms CreateObjectMapping: 0.107800 ms MarkObjects: 3.528000 ms  DeleteObjects: 3.311000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -181,126 +181,169 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 42038.025826 seconds.
-  path: Assets/Prefabs/ramses-ii-egyptian-statue-louvre/source/model_obj/Scaniverse
-  artifactKey: Guid(3d25c9b027621dd49af50d1764436e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/ramses-ii-egyptian-statue-louvre/source/model_obj/Scaniverse using Guid(3d25c9b027621dd49af50d1764436e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5b061a524a04a58d930bc27b7e334e') in 0.043159 seconds
+  Time since last request: 47938.956310 seconds.
+  path: Assets/Prefabs/sakura-tree-01-low-poly-model/source/Sakura/Sakura/Sakura_Opacity.png
+  artifactKey: Guid(5a4ce0caa06902d4e8a1cbee70117a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/sakura-tree-01-low-poly-model/source/Sakura/Sakura/Sakura_Opacity.png using Guid(5a4ce0caa06902d4e8a1cbee70117a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d6cbd877643b5aadd6e85f8515d6c2') in 1.538485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Prefabs/sakura-tree-01-low-poly-model/source/Sakura/Sakura/Sakura.png
+  artifactKey: Guid(c55c59c6ae8548a498b7e0c26039d9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/sakura-tree-01-low-poly-model/source/Sakura/Sakura/Sakura.png using Guid(c55c59c6ae8548a498b7e0c26039d9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e1aacb4fc4dd0c62fa3d48ae017963e') in 0.152257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Prefabs/sakura-tree-01-low-poly-model/source/Sakura/Sakura/Bark001_2K_JPG_Normal.png
+  artifactKey: Guid(cc727ccaa960145499026d47916a3f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/sakura-tree-01-low-poly-model/source/Sakura/Sakura/Bark001_2K_JPG_Normal.png using Guid(cc727ccaa960145499026d47916a3f35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a2700cb7dffbdd47d1002d38e50cda8') in 0.279816 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 830.051223 seconds.
+  path: Assets/Prefabs/bonsai/source/AssetPackFoliage_FicusBonsai_1_5.fbx
+  artifactKey: Guid(dc9a9d7b90a6f5641ac086b7989d5f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/source/AssetPackFoliage_FicusBonsai_1_5.fbx using Guid(dc9a9d7b90a6f5641ac086b7989d5f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425189a596a73fe7b6dceb55d00c171b') in 5.982138 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 17.738239 seconds.
+  path: Assets/Prefabs/bonsai/textures/FicusBonsai_1_Material_metalness.png
+  artifactKey: Guid(67569bd1bc44ab247a6a2a5e1c4e24f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/textures/FicusBonsai_1_Material_metalness.png using Guid(67569bd1bc44ab247a6a2a5e1c4e24f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ac66f662cf7a9ede461188cbeebac16') in 0.144385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.115004 seconds.
+  path: Assets/Prefabs/bonsai/textures/FicusBonsai_1_Material_roughness.png
+  artifactKey: Guid(a0c43ae45b41255449bd27b1a0921911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/textures/FicusBonsai_1_Material_roughness.png using Guid(a0c43ae45b41255449bd27b1a0921911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707d64a3fec96145793298c2e2dcdc8b') in 0.018119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Prefabs/bonsai/textures/LeafSet02_Roughness.png
+  artifactKey: Guid(50450f28ebdd3d14aa44aaf5b08fbca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/textures/LeafSet02_Roughness.png using Guid(50450f28ebdd3d14aa44aaf5b08fbca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5214978873d51ef9ca75e027a24b650') in 0.333170 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Prefabs/bonsai/textures/FicusBonsaiPot_3_roughness.png
+  artifactKey: Guid(22d7829e1041c9a43861cb5187883d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/textures/FicusBonsaiPot_3_roughness.png using Guid(22d7829e1041c9a43861cb5187883d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdcbc5074ed774f7019b29053f31f862') in 0.154232 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Prefabs/bonsai/textures/LeafSet002_Normal.png
+  artifactKey: Guid(5092650a02651fc4ca41f115a33617e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/textures/LeafSet002_Normal.png using Guid(5092650a02651fc4ca41f115a33617e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9384514be7e6da9f7b257df725672487') in 0.352264 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Prefabs/bonsai/textures/LeafSet002_Color2.png
+  artifactKey: Guid(51b036baddbcb314189f51158e7c9585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/textures/LeafSet002_Color2.png using Guid(51b036baddbcb314189f51158e7c9585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206bbd3963ecdf4c875086b76204d13b') in 0.025120 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Prefabs/bonsai/textures/LeafSet002_Metallic.png
+  artifactKey: Guid(554ab2265aa05e943b019524fbc3ce73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/textures/LeafSet002_Metallic.png using Guid(554ab2265aa05e943b019524fbc3ce73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ddd0bc1689a60552bcebfc95382a38') in 0.102044 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 65.819134 seconds.
+  path: Assets/Prefabs/bonsai/Materials
+  artifactKey: Guid(611b6f85ec0f2614a899a63b8af148c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/Materials using Guid(611b6f85ec0f2614a899a63b8af148c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '491d1be75c3adce66835c763984a7b58') in 0.001293 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/Prefabs/ramses-ii-egyptian-statue-louvre/source/model_obj/Scaniverse/Scaniverse.obj
-  artifactKey: Guid(e739dd2be0b39ee4bba80c29bf6b07b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/ramses-ii-egyptian-statue-louvre/source/model_obj/Scaniverse/Scaniverse.obj using Guid(e739dd2be0b39ee4bba80c29bf6b07b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19bf973d6d40e67b2a544a482bc88511') in 2.744653 seconds
+  Time since last request: 0.030879 seconds.
+  path: Assets/Prefabs/bonsai/Materials/LeafSet002_Color2.mat
+  artifactKey: Guid(c6209b4186eb7304ba9d16e38207d416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/Materials/LeafSet002_Color2.mat using Guid(c6209b4186eb7304ba9d16e38207d416) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e79b19d9fc20e39b1b6de2fdc08294c9') in 0.136631 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 184.159563 seconds.
+  path: Assets/Prefabs/bonsai/source/AssetPackFoliage_FicusBonsai_1_5.fbx
+  artifactKey: Guid(dc9a9d7b90a6f5641ac086b7989d5f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/source/AssetPackFoliage_FicusBonsai_1_5.fbx using Guid(dc9a9d7b90a6f5641ac086b7989d5f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e05ffcfdbf6e20e6aea6427357c045f0') in 0.481249 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 19.429946 seconds.
+  path: Assets/Prefabs/bonsai/source/LeafSet.mat
+  artifactKey: Guid(d5f041f7cdc9c0f4e8fc1bc981117dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/source/LeafSet.mat using Guid(d5f041f7cdc9c0f4e8fc1bc981117dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561ef58613d535e3869cd6f937679412') in 0.092463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 38.064720 seconds.
+  path: Assets/Prefabs/bonsai/source/AssetPackFoliage_FicusBonsai_1_5.fbx
+  artifactKey: Guid(dc9a9d7b90a6f5641ac086b7989d5f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/source/AssetPackFoliage_FicusBonsai_1_5.fbx using Guid(dc9a9d7b90a6f5641ac086b7989d5f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa45dea6cbefb24d6927467c108f05bf') in 0.122133 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 11
 ========================================================================
 Received Import Request.
-  Time since last request: 2855.236899 seconds.
-  path: Assets/Prefabs/geisha/source
-  artifactKey: Guid(3a5ebe0dbf945a245bbdceadf6f29130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/geisha/source using Guid(3a5ebe0dbf945a245bbdceadf6f29130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e07526aeca39d391d5aac4533f7caf84') in 0.629839 seconds
+  Time since last request: 1.826530 seconds.
+  path: Assets/Prefabs/bonsai/source/AssetPackFoliage_FicusBonsai_1_5.fbx
+  artifactKey: Guid(dc9a9d7b90a6f5641ac086b7989d5f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/source/AssetPackFoliage_FicusBonsai_1_5.fbx using Guid(dc9a9d7b90a6f5641ac086b7989d5f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a4e54815d5aa57d8453e5493e2e83f9') in 0.061071 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 5.912500 seconds.
+  path: Assets/Prefabs/bonsai/source/AssetPackFoliage_FicusBonsai_1_5.fbx
+  artifactKey: Guid(dc9a9d7b90a6f5641ac086b7989d5f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/source/AssetPackFoliage_FicusBonsai_1_5.fbx using Guid(dc9a9d7b90a6f5641ac086b7989d5f2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d27dd489a3daa9413d66135cd34ff11') in 0.069260 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 12.747289 seconds.
+  path: Assets/Prefabs/bonsai/source/Materials
+  artifactKey: Guid(96f486de1154fd0469904098c138c0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/source/Materials using Guid(96f486de1154fd0469904098c138c0c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a54f062df3cff54187af0f4ef1d7fb8') in 0.028116 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 2.161920 seconds.
-  path: Assets/Prefabs/geisha/source/Geisha
-  artifactKey: Guid(f17a58aaa5b60804a935e97485a4b5d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/geisha/source/Geisha using Guid(f17a58aaa5b60804a935e97485a4b5d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8abd4f03213eb6a00030e2c24e11ef4b') in 0.097913 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 33.955251 seconds.
-  path: Assets/Prefabs/geisha/textures/sketchfabTemp.jpeg
-  artifactKey: Guid(b6f1373f3dac4e040ac1cd9ed2e9a709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/geisha/textures/sketchfabTemp.jpeg using Guid(b6f1373f3dac4e040ac1cd9ed2e9a709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e6bfab1f3952fc8f22090700d11bf06') in 9.064074 seconds
+  Time since last request: 0.711955 seconds.
+  path: Assets/Prefabs/bonsai/source/Materials/FicusBonsaiPot_4_albedo.mat
+  artifactKey: Guid(2906ea2b930d4ed4ba5622ebe6b3bdf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/source/Materials/FicusBonsaiPot_4_albedo.mat using Guid(2906ea2b930d4ed4ba5622ebe6b3bdf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3273574085b626b72c4bb738dad0b1a8') in 0.334277 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 599.103196 seconds.
-  path: Assets/Prefabs/armadura-samurai-do-maru-bmvb/source/BMVB1451_LP_1M/BMVB1451_LP_1M__normals.jpg
-  artifactKey: Guid(79e137efcc14754409a5f04dfdad7b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/armadura-samurai-do-maru-bmvb/source/BMVB1451_LP_1M/BMVB1451_LP_1M__normals.jpg using Guid(79e137efcc14754409a5f04dfdad7b35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b82291af2aafb1640cf7d8352914f5') in 1.509094 seconds
+  Time since last request: 131.317773 seconds.
+  path: Assets/Prefabs/bonsai/source/Materials/FicusBonsai_1_Material_albedo2.mat
+  artifactKey: Guid(fca95034643faf04aab5befa4dbed906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/bonsai/source/Materials/FicusBonsai_1_Material_albedo2.mat using Guid(fca95034643faf04aab5befa4dbed906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2352e031ea1720f9cfe63a9bf1e1060b') in 0.078564 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.033408 seconds.
-  path: Assets/Prefabs/armadura-samurai-do-maru-bmvb/source/BMVB1451_LP_1M/BMVB1451_LP_1M_u1_v1.jpeg
-  artifactKey: Guid(1b95910dc9e6e8849a490f869c68ca74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/armadura-samurai-do-maru-bmvb/source/BMVB1451_LP_1M/BMVB1451_LP_1M_u1_v1.jpeg using Guid(1b95910dc9e6e8849a490f869c68ca74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcf221353d7d2e66aa2e955b8190b143') in 0.829863 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 776.439989 seconds.
-  path: Assets/Prefabs/10-japanese_temple_model/Japanese_Temple_Model/Model/Japanese_Temple.fbx
-  artifactKey: Guid(54bc07c5ab16f284996c3cc36bdbe796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/10-japanese_temple_model/Japanese_Temple_Model/Model/Japanese_Temple.fbx using Guid(54bc07c5ab16f284996c3cc36bdbe796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6898fe714e7350994bcc96ef8d59c2a6') in 7.070316 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 9.516529 seconds.
-  path: Assets/Prefabs/10-japanese_temple_model/Japanese_Temple_Model/Textures/Japanese_Temple_Paint2_Japanese_Shrine_Mat_AO.png
-  artifactKey: Guid(c08fa2b0cc1807f4a81ef88a07baab5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/10-japanese_temple_model/Japanese_Temple_Model/Textures/Japanese_Temple_Paint2_Japanese_Shrine_Mat_AO.png using Guid(c08fa2b0cc1807f4a81ef88a07baab5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3179204903757e378c35a61ffbe92ac6') in 0.643194 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.346704 seconds.
-  path: Assets/Prefabs/10-japanese_temple_model/Japanese_Temple_Model/Textures/Japanese_Temple_Paint2_Japanese_Shrine_Mat_Roughness.png
-  artifactKey: Guid(9268c1695d2871047a54bd7a743e1f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/10-japanese_temple_model/Japanese_Temple_Model/Textures/Japanese_Temple_Paint2_Japanese_Shrine_Mat_Roughness.png using Guid(9268c1695d2871047a54bd7a743e1f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0a9b8ab00d154ad4c753942414cfe42') in 1.474445 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000077 seconds.
-  path: Assets/Prefabs/10-japanese_temple_model/Japanese_Temple_Model/Textures/Japanese_Temple_Paint2_Japanese_Shrine_Mat_MetallicSmoothness.png
-  artifactKey: Guid(b271edc9533b77d4c9526bbac4ad0bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/10-japanese_temple_model/Japanese_Temple_Model/Textures/Japanese_Temple_Paint2_Japanese_Shrine_Mat_MetallicSmoothness.png using Guid(b271edc9533b77d4c9526bbac4ad0bc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0155752a1012d7978048e8df45c846a') in 0.305033 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/Prefabs/10-japanese_temple_model/Japanese_Temple_Model/Textures/Japanese_Temple_Paint2_Japanese_Shrine_Mat_Normal.png
-  artifactKey: Guid(dc994f1374cabc547a65a6ee11703c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/10-japanese_temple_model/Japanese_Temple_Model/Textures/Japanese_Temple_Paint2_Japanese_Shrine_Mat_Normal.png using Guid(dc994f1374cabc547a65a6ee11703c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8f2095c2c62217b0fd596c9fd31d78') in 0.352219 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 692.901608 seconds.
-  path: Assets/Prefabs/buddha/source/741861d1e872463db51225ee908bd2a2.zip
-  artifactKey: Guid(8d7ef8eb8a56c7949a06c1b13952c795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/buddha/source/741861d1e872463db51225ee908bd2a2.zip using Guid(8d7ef8eb8a56c7949a06c1b13952c795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd775506b7caacb31656517381cac5b3') in 0.088993 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 50.012352 seconds.
-  path: Assets/Prefabs/buddha/textures/buddha_albedo.jpg
-  artifactKey: Guid(3bc903df295c48f4a9d8987c583f85de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/buddha/textures/buddha_albedo.jpg using Guid(3bc903df295c48f4a9d8987c583f85de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afb098ece3339e31ca344af76635c1d4') in 0.353350 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/Prefabs/buddha/textures/buddha_metalness.jpg
-  artifactKey: Guid(54989faf00b679d448547129e1e0da9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/buddha/textures/buddha_metalness.jpg using Guid(54989faf00b679d448547129e1e0da9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8cc7ebc9a5c941da223ea540af1324d') in 0.218100 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
