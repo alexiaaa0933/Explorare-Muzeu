@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\",
+  "WorkspaceRootPath": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|c:\\facultate\\an3sem2\\djc\\explorare-muzeu\\exploraremuzeu\\assets\\scripts\\apple_portret_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|d:\\facultate\\anul iii\\semestrul ii\\djc\\exploraremuzeuproiect\\exploraremuzeu\\assets\\scripts\\apple_portret_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apple_portret_text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\assets\\scripts\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\assets\\scripts\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|c:\\facultate\\an3sem2\\djc\\explorare-muzeu\\exploraremuzeu\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "apple_portret_text.cs",
-              "DocumentMoniker": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\apple_portret_text.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\apple_portret_text.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\apple_portret_text.cs",
-              "ToolTip": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\apple_portret_text.cs",
+              "ToolTip": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\apple_portret_text.cs",
               "RelativeToolTip": "Assets\\Scripts\\apple_portret_text.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAhAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T08:22:28.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "SoundManager.cs",
-              "DocumentMoniker": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\SoundManager.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\SoundManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
-              "ToolTip": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\SoundManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwAoAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T06:11:08.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T05:36:50.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerCam.cs",
-              "DocumentMoniker": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\PlayerCam.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCam.cs",
-              "ToolTip": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\PlayerCam.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerCam.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T05:36:33.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T05:36:50.681Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "PlayerCam.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\PlayerCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCam.cs",
+              "ToolTip": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\PlayerCam.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCam.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:36:33.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MoveCamera.cs",
-              "DocumentMoniker": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\MoveCamera.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\MoveCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveCamera.cs",
-              "ToolTip": "C:\\Facultate\\An3Sem2\\DJC\\Explorare-Muzeu\\ExplorareMuzeu\\Assets\\Scripts\\MoveCamera.cs",
+              "ToolTip": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\MoveCamera.cs",
               "RelativeToolTip": "Assets\\Scripts\\MoveCamera.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T05:35:54.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T05:35:54.876Z"
             }
           ]
         }
