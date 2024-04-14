@@ -68,6 +68,9 @@ ScriptsOnlyBuild:
   methodsToPreserve:
   - assembly: Assembly-CSharp
     fullTypeName: Menu
+    methodName: Explore
+  - assembly: Assembly-CSharp
+    fullTypeName: Menu
     methodName: Quit
   sceneClasses:
     Assets/Scenes/SampleScene.unity:
@@ -114,17 +117,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2606}
     - Class: 114
-      Script: {instanceID: 3526}
+      Script: {instanceID: 3528}
     - Class: 114
-      Script: {instanceID: 3630}
+      Script: {instanceID: 3632}
     - Class: 114
-      Script: {instanceID: 5042}
+      Script: {instanceID: 5044}
     - Class: 114
-      Script: {instanceID: 6056}
+      Script: {instanceID: 6058}
     - Class: 114
-      Script: {instanceID: 7324}
+      Script: {instanceID: 7326}
     - Class: 114
-      Script: {instanceID: 7726}
+      Script: {instanceID: 7728}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -171,21 +174,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3100}
     - Class: 114
-      Script: {instanceID: 3980}
+      Script: {instanceID: 3308}
     - Class: 114
-      Script: {instanceID: 4088}
+      Script: {instanceID: 3982}
     - Class: 114
-      Script: {instanceID: 4338}
+      Script: {instanceID: 4090}
     - Class: 114
-      Script: {instanceID: 5042}
+      Script: {instanceID: 4340}
     - Class: 114
-      Script: {instanceID: 5588}
+      Script: {instanceID: 5044}
     - Class: 114
-      Script: {instanceID: 5740}
+      Script: {instanceID: 5590}
     - Class: 114
-      Script: {instanceID: 6056}
+      Script: {instanceID: 5742}
     - Class: 114
-      Script: {instanceID: 48140}
+      Script: {instanceID: 6058}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -503,6 +506,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: VariablesAsset
+  - hash:
+      serializedVersion: 2
+      Hash: f255b7e7bbdb1065cc86b7bdc65e1fdc
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Menu
   - hash:
       serializedVersion: 2
       Hash: 7bdff9e91edfd9600f92a185def7e34a
@@ -1259,12 +1268,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: f255b7e7bbdb1065cc86b7bdc65e1fdc
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Menu
   platform: 19
   scenePathNames:
   - Assets/Scenes/StartScene.unity

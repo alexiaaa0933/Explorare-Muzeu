@@ -73,6 +73,18 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
 
+
+        if (Input.GetKeyDown("escape"))
+        {
+
+#if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+#else
+    Application.Quit();
+#endif
+        }
+
+
         grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * 0.5f + 0.2f, whatIsGround);
 
         MyInput();

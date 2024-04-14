@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|d:\\facultate\\anul iii\\semestrul ii\\djc\\exploraremuzeuproiect\\exploraremuzeu\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|d:\\facultate\\anul iii\\semestrul ii\\djc\\exploraremuzeuproiect\\exploraremuzeu\\assets\\scripts\\paintingstext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\assets\\scripts\\paintingstext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\paintingstext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -16,10 +20,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{199CA8F8-24B5-69F8-60AC-9EE6AA546EDD}|Assembly-CSharp.csproj|D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\assets\\scripts\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,21 +37,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\Menu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
-              "ToolTip": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\Menu.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T13:05:04.379Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -59,6 +46,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:05:04.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PaintingsText.cs",
               "DocumentMoniker": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\PaintingsText.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PaintingsText.cs",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PaintingsText.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T09:34:07.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T09:34:07.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "apple_portret_text.cs",
               "DocumentMoniker": "C:\\Facultate\\An3Sem2\\ProiectDJC\\ExplorareMuzeu\\Assets\\Scripts\\apple_portret_text.cs",
               "ToolTip": "C:\\Facultate\\An3Sem2\\ProiectDJC\\ExplorareMuzeu\\Assets\\Scripts\\apple_portret_text.cs",
@@ -81,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SoundManager.cs",
               "DocumentMoniker": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\SoundManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
@@ -93,15 +92,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
               "ToolTip": "D:\\Facultate\\Anul III\\Semestrul II\\DJC\\ExplorareMuzeuProiect\\ExplorareMuzeu\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAAzAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwFMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T05:36:50.681Z"
+              "WhenOpened": "2024-04-13T05:36:50.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
